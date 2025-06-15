@@ -296,7 +296,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1.1;
 				DEVELOPMENT_ASSET_PATHS = "\"SpendSmart/Preview Content\"";
-				DEVELOPMENT_TEAM = M542AQBJC5;
+				DEVELOPMENT_TEAM = RKV4UP49S6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = SpendSmart/Info.plist;
@@ -304,6 +304,7 @@
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.shopping";
 				INFOPLIST_KEY_NSCameraUsageDescription = "SpendSmart needs camera access to scan your receipts and automatically extract information.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "SpendSmart uses your location to show nearby stores and spending patterns on the map.";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "SpendSmart needs access to your photo library to select receipt images for processing.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -316,7 +317,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.1;
-				PRODUCT_BUNDLE_IDENTIFIER = com.shauryag.SpendSmartAppStore;
+				PRODUCT_BUNDLE_IDENTIFIER = com.createchsol.SpendSmartAppStore;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -335,7 +336,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1.1;
 				DEVELOPMENT_ASSET_PATHS = "\"SpendSmart/Preview Content\"";
-				DEVELOPMENT_TEAM = M542AQBJC5;
+				DEVELOPMENT_TEAM = RKV4UP49S6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = SpendSmart/Info.plist;
@@ -343,6 +344,7 @@
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.shopping";
 				INFOPLIST_KEY_NSCameraUsageDescription = "SpendSmart needs camera access to scan your receipts and automatically extract information.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "SpendSmart uses your location to show nearby stores and spending patterns on the map.";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "SpendSmart needs access to your photo library to select receipt images for processing.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -355,7 +357,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.1;
-				PRODUCT_BUNDLE_IDENTIFIER = com.shauryag.SpendSmartAppStore;
+				PRODUCT_BUNDLE_IDENTIFIER = com.createchsol.SpendSmartAppStore;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
